@@ -1,3 +1,3 @@
-My Name: Dhruv D Mistry \n
-Porject File: Lab 3 \n
-Student ID: 8915299 \n
+My Name: Dhruv D Mistry 
+Porject File: Lab 3 
+Student ID: 8915299 
